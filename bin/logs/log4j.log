@@ -1,0 +1,2115 @@
+2020/01/02 16:33:29,470 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:42)] INFO  -> 2020-01-02 16:33:29 ======守护线程启动=======
+
+2020/01/02 16:33:31,782 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:31,782 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:31,782 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:31,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:31====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:31,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:
+
+2020/01/02 16:33:31,785 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:62)] INFO  -> ======当前为第一次运行======
+
+2020/01/02 16:33:32,469 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:69)] INFO  -> ======当前公网ip与域名绑定的ip一致，三码调整为一致======
+
+2020/01/02 16:33:32,469 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:32,469 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:32,470 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/02 16:33:34,487 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:34,487 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:34,487 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:34,488 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:34====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:34,488 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/02 16:33:34,489 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:58)] INFO  -> ====当前ip一致=====
+
+2020/01/02 16:33:34,490 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:34,490 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:34,490 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/02 16:33:39,473 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:39,473 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:39,473 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:39====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:58)] INFO  -> ====当前ip一致=====
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:39,474 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/02 16:33:45,258 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:45,258 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:45====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:58)] INFO  -> ====当前ip一致=====
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:45,259 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:45,260 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/02 16:33:49,601 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:49,601 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:49,601 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:49,601 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:49====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:49,602 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/02 16:33:49,602 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:58)] INFO  -> ====当前ip一致=====
+
+2020/01/02 16:33:49,602 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:49,602 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:49,602 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/02 16:33:54,523 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:30)] INFO  -> 
+
+
+2020/01/02 16:33:54,524 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:31)] INFO  -> ============================
+
+2020/01/02 16:33:54,524 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/02 16:33:54,524 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> 2020-01-02 16:33:54====当前公网ip为：182.108.18.142====
+
+2020/01/02 16:33:54,524 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/02 16:33:54,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:58)] INFO  -> ====当前ip一致=====
+
+2020/01/02 16:33:54,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:38)] INFO  -> 
+
+
+2020/01/02 16:33:54,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:39)] INFO  -> ============================
+
+2020/01/02 16:33:54,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:29:56,065 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 09:29:56 ======守护线程启动=======
+
+2020/01/03 09:29:56,976 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:29:56,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:29:56,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:29:56,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:29:56====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:29:56,978 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.108.18.142
+
+2020/01/03 09:29:56,978 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:56)] INFO  -> ====当前ip不一致，修改域名中====
+
+2020/01/03 09:29:57,522 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:29:57,522 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:29:57,522 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:01,192 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:01,192 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:01,192 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:01,193 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:01====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:01,193 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:01,193 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:01,195 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:01,195 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:01,195 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:06,327 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:06,327 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:06,327 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:06====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:06,328 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:11,197 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:11,198 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:11,198 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:11,198 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:11====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:11,198 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:11,199 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:11,199 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:11,199 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:11,199 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:27,727 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 09:30:27 ======守护线程启动=======
+
+2020/01/03 09:30:28,567 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:28,567 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:28,568 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:28,568 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:28====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:28,568 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:28,569 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:28,569 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:28,569 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:28,569 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:32,837 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:32,837 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:32,837 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:32,837 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:32====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:32,838 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:32,838 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:32,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:32,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:32,840 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:37,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:37,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:37,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:37,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:37====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:37,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:37,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:37,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:37,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:37,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:42,846 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:42,847 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:42,847 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:42,847 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:42====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:42,847 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:42,847 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:42,848 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:42,848 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:42,848 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:47,871 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:47,871 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:47,871 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:47====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:47,872 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:52,838 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:52====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:52,839 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:30:57,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:30:57,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:30:57,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:30:57====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:30:57,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:02,835 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:02====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:02,836 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:02,837 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:07====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:31:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:31:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:12,849 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:12,849 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:12====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:12,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:17,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:17====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:31:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:31:17,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:17,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:17,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:17,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:23,960 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:23,960 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:23,960 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:23,960 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:23====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:23,960 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:31:23,961 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:56)] INFO  -> ====当前ip不一致，修改域名中====
+
+2020/01/03 09:31:24,996 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:24,996 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:24,996 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:27,963 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:27,963 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:27====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:27,964 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:27,965 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:32,932 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:32,932 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:32,932 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:32====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:32,933 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:37,976 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:37====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:37,977 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:37,978 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:37,978 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:42,949 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:42,949 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:42,950 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:42,950 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:42====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:42,950 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:42,950 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:42,950 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:42,951 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:42,951 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:47,958 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:47,958 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:47,958 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:47====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:47,959 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:53,019 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:53,019 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:53,019 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:53====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:53,020 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:31:58,061 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:31:58====当前公网ip为：223.104.170.34====
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:31:58,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:03,442 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:03,442 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:03,442 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:03,443 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:03====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:03,443 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:223.104.170.34
+
+2020/01/03 09:32:03,443 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:56)] INFO  -> ====当前ip不一致，修改域名中====
+
+2020/01/03 09:32:04,479 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:04,479 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:04,479 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:07====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:07,826 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:07,827 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:07,827 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:12,831 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:12,831 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:12,831 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:12====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:12,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:17,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:17,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:17,832 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:17====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:17,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:22,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:22,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:22,833 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:22====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:22,834 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:27,730 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:53)] INFO  -> 
+
+
+2020/01/03 09:32:27,827 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:27,827 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:27====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:27,828 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:28,553 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:57)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:32:28,553 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:59)] INFO  -> ========一切正常==========
+
+2020/01/03 09:32:28,553 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:32:28,553 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:32====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:32,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:38====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:38,051 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:38,052 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:43====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:43,040 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:43,041 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:43,041 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:43,041 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:47====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:47,929 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:52,860 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:52,860 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:52,860 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:52====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:52,861 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:32:58====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:32:58,542 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:02====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:02,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:07====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:07,855 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:07,856 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:12====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:12,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:17====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:17,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:22====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:22,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:22,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:22,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:22,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:27====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:27,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:32====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:32,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:32,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:37====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:37,845 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:42,850 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:42====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:42,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:47,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:47,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:47,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:47====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:47,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:52====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:52,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:33:57,851 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:33:57====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:33:57,852 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:34:02,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:34:02,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:34:02,853 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:34:02====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:34:02,854 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:34:08====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:34:08,303 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:34:12====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:34:12,857 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:24,232 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 09:36:24 ======守护线程启动=======
+
+2020/01/03 09:36:25,045 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:25,045 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:25,045 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:25,046 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:25====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:25,046 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:25,046 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:25,047 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:25,047 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:25,047 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:29,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:29,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:29,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:29,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:29====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:29,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:29,357 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:29,358 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:29,358 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:29,358 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:34,347 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:34,347 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:34,347 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:34,348 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:34====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:34,348 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:34,348 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:34,349 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:34,349 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:34,349 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:36,236 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:36:36,519 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:36:36,519 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:36:36,519 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:36:36,519 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:36:39,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:39,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:39,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:39,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:39====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:44,349 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:44,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:44,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:44,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:44====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:44,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:44,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:44,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:44,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:44,352 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:48,520 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:36:48,807 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:36:48,807 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:36:48,807 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:36:48,807 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:36:49,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:49,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:49,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:49,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:49====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:49,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:49,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:49,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:49,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:49,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:54,349 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:54,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:54,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:54,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:54====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:54,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:54,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:54,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:54,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:54,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:36:59,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:36:59,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:36:59,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:36:59,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:36:59====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:36:59,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:36:59,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:36:59,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:36:59,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:36:59,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:00,808 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:37:01,065 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:37:01,065 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:37:01,065 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:37:01,065 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:37:04,361 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:04,361 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:04,361 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:04,361 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:04====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:04,362 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:04,362 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:04,362 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:04,362 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:04,362 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:09,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:09,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:09,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:09,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:09====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:09,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:09,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:09,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:09,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:09,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:13,067 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:37:13,350 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:37:13,350 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:37:13,350 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:37:13,350 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:37:14,341 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:14,341 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:14,341 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:14,341 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:14====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:14,341 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:14,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:14,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:14,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:14,342 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:19,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:19,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:19,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:19,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:19====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:19,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:19,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:19,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:19,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:19,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:24,372 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:24,372 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:24,372 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:24,372 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:24====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:24,373 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:24,373 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:24,373 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:24,373 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:24,373 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:25,351 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:37:25,633 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:37:25,633 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:37:25,634 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:37:25,634 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:37:29,353 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:29,353 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:29,353 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:29====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:29,354 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:34,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:34,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:34,350 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:34====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:34,351 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:37,635 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 09:37:37,913 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:37:37,913 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> ========一切正常==========
+
+2020/01/03 09:37:37,914 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:37:37,914 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:68)] INFO  -> 
+
+
+2020/01/03 09:37:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:39,343 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:39====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:39,344 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:37:44,355 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:37:44====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:37:44,356 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:37:44,357 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:37:44,357 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:38:35,663 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 09:38:35 ======守护线程启动=======
+
+2020/01/03 09:38:36,517 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:38:36,517 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:38:36,517 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:38:36,517 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:38:36====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:38:36,518 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:38:36,518 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:38:36,518 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:38:36,518 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:38:36,519 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:38:40,789 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:38:40,790 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:38:40,790 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:38:40,790 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:38:40====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:38:40,790 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:38:40,790 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:38:40,792 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:38:40,792 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:38:40,792 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:38:45,782 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 09:38:45,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 09:38:45,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 09:38:45,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 09:38:45====当前公网ip为：182.96.49.126====
+
+2020/01/03 09:38:45,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 09:38:45,783 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 09:38:45,784 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 09:38:45,784 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 09:38:45,784 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 09:38:47,667 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:55)] INFO  -> 
+
+
+2020/01/03 09:38:47,944 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:59)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:38:47,944 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========一切正常==========
+
+2020/01/03 09:38:47,945 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:62)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:38:47,945 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:69)] INFO  -> 
+
+
+2020/01/03 09:38:59,950 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:55)] INFO  -> 
+
+
+2020/01/03 09:39:00,753 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:59)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:39:00,753 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========一切正常==========
+
+2020/01/03 09:39:00,753 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:62)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:39:00,753 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:69)] INFO  -> 
+
+
+2020/01/03 09:39:12,753 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:55)] INFO  -> 
+
+
+2020/01/03 09:39:13,530 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:59)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:39:13,530 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========一切正常==========
+
+2020/01/03 09:39:13,530 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:62)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:39:13,530 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:69)] INFO  -> 
+
+
+2020/01/03 09:39:25,532 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:55)] INFO  -> 
+
+
+2020/01/03 09:39:26,219 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:59)] INFO  -> ======执行守护线程=====
+
+2020/01/03 09:39:26,219 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:61)] INFO  -> ========一切正常==========
+
+2020/01/03 09:39:26,219 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:62)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 09:39:26,219 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:69)] INFO  -> 
+
+
+2020/01/03 10:09:49,244 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 10:09:49 ======守护线程启动=======
+
+2020/01/03 10:09:50,061 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:09:50,061 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:09:50,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:09:50,062 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:09:50====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:09:50,063 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:09:50,063 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:09:50,063 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:09:50,063 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:09:50,063 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:09:59,794 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:09:59,794 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:09:59,795 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:09:59,795 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:09:59====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:09:59,795 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:09:59,795 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:09:59,797 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:09:59,797 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:09:59,797 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:15:11,931 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-03 10:15:11 ======守护线程启动=======
+
+2020/01/03 10:15:12,660 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:15:12,660 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:15:12,660 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:15:12,661 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:15:12====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:15:12,662 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:15:12,662 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:15:12,662 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:15:12,662 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:15:12,662 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:15:22,616 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:15:22,616 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:15:22,616 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:15:22,617 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:15:22====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:15:22,617 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:15:22,617 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:15:22,618 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:15:22,619 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:15:22,619 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:15:31,935 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 10:15:32,519 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:15:32,519 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:15:32,519 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:15:32,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:15:32====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:15:32,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:15:32,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:15:32,525 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:15:32,526 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:15:32,526 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:15:32,689 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 10:15:32,689 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> 获取当前状态码：true 当前错误运行数：0
+
+2020/01/03 10:15:32,690 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:76)] INFO  -> ========一切正常==========
+
+2020/01/03 10:15:32,690 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:77)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 10:15:32,690 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:84)] INFO  -> 
+
+
+2020/01/03 10:15:42,590 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:15:42,590 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:15:42,590 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:15:42====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:15:42,591 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:15:52,691 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:54)] INFO  -> 
+
+
+2020/01/03 10:15:53,592 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:58)] INFO  -> ======执行守护线程=====
+
+2020/01/03 10:15:53,592 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:60)] INFO  -> 获取当前状态码：true 当前错误运行数：0
+
+2020/01/03 10:15:53,592 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:76)] INFO  -> ========一切正常==========
+
+2020/01/03 10:15:53,592 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:77)] INFO  -> ========当前三码合一值：
+本地公网ip：182.96.49.126
+与域名绑定的ip：182.96.49.126
+ 本地存储的域名ip：182.96.49.126==========
+
+2020/01/03 10:15:53,593 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:84)] INFO  -> 
+
+
+2020/01/03 10:15:53,687 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:15:53,687 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:15:53,687 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:15:53,688 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:15:53====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:15:53,688 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:15:53,688 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:15:53,688 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:15:53,688 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:15:53,689 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/03 10:16:02,479 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/03 10:16:02,480 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/03 10:16:02,480 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/03 10:16:02,480 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-03 10:16:02====当前公网ip为：182.96.49.126====
+
+2020/01/03 10:16:02,480 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.96.49.126
+
+2020/01/03 10:16:02,480 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/03 10:16:02,481 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/03 10:16:02,481 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/03 10:16:02,481 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/06 11:10:36,447 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-06 11:10:36 ======守护线程启动=======
+
+2020/01/06 11:10:38,506 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/06 11:10:38,506 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/06 11:10:38,506 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/06 11:10:38,507 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-06 11:10:38====当前公网ip为：182.108.19.101====
+
+2020/01/06 11:10:38,507 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.108.19.101
+
+2020/01/06 11:10:38,507 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/06 11:10:38,507 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/06 11:10:38,507 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/06 11:10:38,508 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
+2020/01/07 11:05:47,976 [com.ali.ddns.init.CacheEntity.getCacheEntity(CacheEntity.java:44)] INFO  -> 初始化参数中
+
+2020/01/07 11:05:49,232 [com.ali.ddns.init.CacheEntity.getCacheEntity(CacheEntity.java:55)] INFO  -> 参数初始化成功
+
+2020/01/07 11:05:49,316 [com.ali.ddns.jxddns.SucThread.run(SucThread.java:44)] INFO  -> 2020-01-07 11:05:49 ======守护线程启动=======
+
+2020/01/07 11:05:50,211 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:32)] INFO  -> 
+
+
+2020/01/07 11:05:50,212 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:33)] INFO  -> ============================
+
+2020/01/07 11:05:50,213 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:34)] INFO  -> 
+
+
+2020/01/07 11:05:50,213 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:35)] INFO  -> 2020-01-07 11:05:50====当前公网ip为：182.108.19.101====
+
+2020/01/07 11:05:50,213 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:36)] INFO  -> 本地存储ip:182.108.19.101
+
+2020/01/07 11:05:50,213 [com.ali.ddns.jxddns.CheckDoMainIpJob.logicCode(CheckDoMainIpJob.java:60)] INFO  -> ====当前ip一致=====
+
+2020/01/07 11:05:50,213 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:40)] INFO  -> 
+
+
+2020/01/07 11:05:50,214 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:41)] INFO  -> ============================
+
+2020/01/07 11:05:50,214 [com.ali.ddns.jxddns.CheckDoMainIpJob.execute(CheckDoMainIpJob.java:42)] INFO  -> 
+
+
